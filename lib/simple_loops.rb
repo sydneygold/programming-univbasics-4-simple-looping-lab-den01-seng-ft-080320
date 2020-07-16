@@ -1,7 +1,9 @@
-def loop_message_five_times(array, counter)
+def loop_message_five_times(array, string)
   while array <= 5 do
+    puts string
     counter += 1
-    puts array
   end
-
+    
   end
+  array
+end
