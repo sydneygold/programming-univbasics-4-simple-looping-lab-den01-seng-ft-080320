@@ -5,4 +5,3 @@ def loop_message_five_times(array, string)
   end
 
   end
-end
